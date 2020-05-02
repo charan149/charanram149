@@ -7,6 +7,8 @@ public void boy() {
 }
 public void girl() {
 	System.out.println("covai to chennai");
+	System.out.println("salem to covai");
+	
 }
 public static void main(String[] args) {
 	Git2 gg=new Git2();
